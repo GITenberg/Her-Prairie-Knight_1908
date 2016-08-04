@@ -1,0 +1,35 @@
+_repo: Her-Prairie-Knight_1908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: A debutante hailing from an aristocratic family in the Northeastern United
+  States, Beatrice Lansell fills her days with coquetry, leisure and meaningless flirtations,
+  but she has never found true love. Her family is pressing her to accept the marriage
+  offer of a wealthy Englishman, but the staunchly independent Beatrice finds herself
+  equally annoyed and attracted by mysterious cowboy Keith Cameron. Will this improbable
+  romance last?
+gutenberg_bookshelf: Western
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Montana -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: Her Prairie Knight
+url: http://www.gutenberg.org/ebooks/1908
