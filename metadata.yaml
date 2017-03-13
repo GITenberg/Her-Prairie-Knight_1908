@@ -1,5 +1,8 @@
 _repo: Her-Prairie-Knight_1908
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bower, B. M.
@@ -16,6 +19,8 @@ description: A debutante hailing from an aristocratic family in the Northeastern
   offer of a wealthy Englishman, but the staunchly independent Beatrice finds herself
   equally annoyed and attracted by mysterious cowboy Keith Cameron. Will this improbable
   romance last?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1908#Her-Prairie-Knight
 gutenberg_bookshelf: Western
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
